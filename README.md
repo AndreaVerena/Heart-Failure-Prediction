@@ -19,4 +19,4 @@ The description of the clinical features are:
 
 
 For more information, please check Table 1, Table 2, and Table 3 of the following paper:
-Davide Chicco, Giuseppe Jurman: "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone". BMC Medical Informatics and Decision Making 20, 16 (2020).
+Davide Chicco, Giuseppe Jurman: "Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone". BMC Medical Informatics and Decision Making 20, 16 (2020). Available on https://bmcmedinformdecismak.biomedcentral.com/track/pdf/10.1186/s12911-020-1023-5.pdf .
