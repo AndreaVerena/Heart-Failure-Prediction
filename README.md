@@ -15,7 +15,7 @@ The description of the clinical features are:
 * serum sodium: level of serum sodium in the blood (mEq/L)
 * smoking: if the patient smokes or not (boolean)
 * time: follow-up period (days)
-[target] death event: if the patient deceased during the follow-up period (boolean)
+* [target] death event: if the patient deceased during the follow-up period (boolean)
 
 
 For more information, please check Table 1, Table 2, and Table 3 of the following paper:
